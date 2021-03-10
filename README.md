@@ -1,1 +1,2 @@
-# G-Drive-Generator
+# G-Drive-Generator.
+# Feel free to download.
